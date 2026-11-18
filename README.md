@@ -199,7 +199,16 @@ plt.show()
 
 <img width="1380" height="492" alt="image" src="https://github.com/user-attachments/assets/3c86734c-2725-476e-bd82-1b77109504d9" />
 
-
+# SUMMARY
+The Titanic dataset is analyzed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+1. Data Loading: Imported the Titanic dataset and displayed its information, rows, columns, and statistical summary.
+2. Categorical Analysis: Used value_counts() to analyze categorical columns.
+3. Univariate Analysis: Used countplot to analyze passenger survival and identified unique passenger classes.
+4. Column Renaming: Renamed the Sex column to Gender.
+5. Bivariate Analysis: Used catplot and boxplot to study relationships between passenger class, age, gender, and survival.
+6. Multivariate Analysis: Used boxplot and catplot to analyze multiple columns together.
+7. Heatmap: Identified correlations between numerical variables.
+8. Pairplot: Visualized relationships between different numerical columns.
 
 # RESULT
 Thus, Exploratory Data Analysis for the given dataset is done successfully.
